@@ -1,0 +1,2 @@
+# Gprops
+A Utility tool used by Guild for Activities. Not Optimized but it's just works. Includes APK Specification and Socket Benchmarking. More tools developed in the future if Guild has new feature introduced.
